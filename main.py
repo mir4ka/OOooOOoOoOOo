@@ -2,8 +2,7 @@ import sys
 import random
 from PyQt5.QtWidgets import QApplication, QMainWindow
 from PyQt5 import uic
-from PyQt5.QtGui import QPainter, QColor, QBrush
-
+from PyQt5.QtGui import QPainter, QColor
 
 class Exs(QMainWindow):
     def __init__(self):
